@@ -1,4 +1,135 @@
-body{background-image:url("https://cdn.discordapp.com/attachments/1082425550662025297/1087523403570892800/aminelazez_poor_levi_from_attack_on_titan_928cffbc-18b7-4849-b511-ebd9a79bb0ba.png");background-repeat:no-repeat;background-size:cover;background-color:#ffffff;font-family:"Montserrat",sans-serif;overflow-x:hidden}.header-container{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh}.title{color:#ddc3a3;text-align:center;font-size:72px;margin-bottom:40px;font-family:"Montserrat",sans-serif;font-weight:700;text-shadow:2px 2px #16274b}.nav-links{display:flex;list-style:none;margin:0;padding:0}.nav-links li{margin-left:20px}.nav-links li:first-child{margin-left:0}.nav-links a{color:#ffffff;font-size:20px;text-decoration:none;font-weight:500}.play-button{background-color:#f2d658;color:#16274b;border:none;border-radius:10px;padding:16px 32px;font-size:20px;cursor:pointer;font-weight:700;transition:background-color 0.5s ease}.play-button:hover{background-color:#ddc3a3;color:#36c2ff}.label-container{background-color:#16274b;border-radius:10px;padding:40px 60px;margin:50px 20px}.label-container header{font-size:24px;font-weight:700;margin-bottom:20px;color:#ddc3a3;text-align:center;text-shadow:2px 2px #ffffff}.label-container p{font-size:20px;font-weight:500;line-height:1.5;margin-top:0;color:#ffffff;text-align:center;text-shadow:2px 2px #16274b}.social-links{display:flex;justify-content:center}.contact-container{background-color:#16274b;border-radius:10px;padding:40px 60px;margin:50px 20px}.contact-container header{font-size:24px;font-weight:700;margin-bottom:20px;color:#ddc3a3;text-align:center;text-shadow:2px 2px #ffffff}.contact-container p{font-size:20px;font-weight:500;line-height:1.5;margin-top:0;color:#ffffff;text-align:center;text-shadow:2px 2px #16274b}.contact-container ul{list-style:none;padding:0;margin-top:20px}.contact-container li{margin-bottom:10px}.contact-container li:last-child{margin-bottom:0}.contact-container i{font-size:24px;margin-right:10px;color:#f2d658;text-shadow:2px 2px #16274b}.contact-container a{color:#ffffff;text-decoration:none;font-size:20px;font-weight:500;text-align:center;text-shadow:2px 2px #16274b}
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/1082425550662025297/1087523403570892800/aminelazez_poor_levi_from_attack_on_titan_928cffbc-18b7-4849-b511-ebd9a79bb0ba.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
+}
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.title {
+  color: #ddc3a3;
+  text-align: center;
+  font-size: 72px;
+  margin-bottom: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-shadow: 2px 2px #16274b;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-links li {
+  margin-left: 20px;
+}
+.nav-links li:first-child {
+  margin-left: 0;
+}
+.nav-links a {
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.play-button {
+  background-color: #f2d658;
+  color: #16274b;
+  border: none;
+  border-radius: 10px;
+  padding: 16px 32px;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: 700;
+  transition: background-color 0.5s ease;
+}
+.play-button:hover {
+  background-color: #ddc3a3;
+  color: #36c2ff;
+}
+.label-container {
+  background-color: #16274b;
+  border-radius: 10px;
+  padding: 40px 60px;
+  margin: 50px 20px;
+}
+.label-container header {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #ddc3a3;
+  text-align: center;
+  text-shadow: 2px 2px #ffffff;
+}
+.label-container p {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-top: 0;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 2px #16274b;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+}
+.contact-container {
+  background-color: #16274b;
+  border-radius: 10px;
+  padding: 40px 60px;
+  margin: 50px 20px;
+}
+.contact-container header {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #ddc3a3;
+  text-align: center;
+  text-shadow: 2px 2px #ffffff;
+}
+.contact-container p {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-top: 0;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 2px #16274b;
+}
+.contact-container ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+.contact-container li {
+  margin-bottom: 10px;
+}
+.contact-container li:last-child {
+  margin-bottom: 0;
+}
+.contact-container i {
+  font-size: 24px;
+  margin-right: 10px;
+  color: #f2d658;
+  text-shadow: 2px 2px #16274b;
+}
+.contact-container a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 2px 2px #16274b;
+}
 .social-links img {
   width: 40px;
   height: 40px;
